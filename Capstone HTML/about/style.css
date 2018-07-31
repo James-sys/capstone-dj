@@ -102,9 +102,6 @@ html {
   padding: 6px 20px 6px 20px;
   margin: 0;
   margin-bottom: 6px;
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
 }
 #menu-bar li ul li a {
   margin: 0;
