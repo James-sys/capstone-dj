@@ -2,12 +2,14 @@ html {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
-}
-.front-page {
   background: url(./images/background) no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
 }
+.page {
+}
+
+
 
 #name {
   display: flex;
@@ -71,7 +73,6 @@ html {
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
-  text-shadow: 2px 2px 3px #000000;
 }
 #menu-bar li ul li a {
   margin: 0;
@@ -118,7 +119,6 @@ html {
   border-radius: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  text-shadow: 2px 2px 3px #ffffff;
 }
 #menu-bar li:hover > ul {
   display: block;
@@ -162,7 +162,6 @@ html {
   font-style: normal;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  text-shadow: 2px 2px 3px #ffffff;
 }
 #menu-bar ul li:first-child > a {
   border-top-left-radius: 10px;
