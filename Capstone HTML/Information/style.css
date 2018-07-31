@@ -46,7 +46,6 @@
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
-  text-shadow: 2px 2px 3px #000000;
 }
 #menu-bar li ul li a {
   margin: 0;
@@ -93,7 +92,6 @@
   border-radius: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  text-shadow: 2px 2px 3px #ffffff;
 }
 #menu-bar li:hover > ul {
   display: block;
@@ -137,7 +135,6 @@
   font-style: normal;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  text-shadow: 2px 2px 3px #ffffff;
 }
 #menu-bar ul li:first-child > a {
   border-top-left-radius: 10px;
