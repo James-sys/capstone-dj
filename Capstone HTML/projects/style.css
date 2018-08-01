@@ -15,8 +15,11 @@ html {
   flex-direction: row;
   justify-content: center;
   align-content: center;
-  font-size: 30px;
+  font-size: 40px;
   cursor: default;
+  color: #3246a5;
+  font-weight: 700;
+  border-bottom: 2px solid #00ffff;
 }
 .content {
   display: flex;
@@ -25,8 +28,8 @@ html {
 }
 .link {
   text-decoration: none;
-  color: black;
-  font-size: 20px;
+  color: #354ca9;
+  font-size: 30px;
 }
 .content a:hover {
   text-decoration: underline;
