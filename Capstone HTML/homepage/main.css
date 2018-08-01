@@ -2,7 +2,7 @@ html {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
-  background: url(./images/background) no-repeat center center fixed;
+  background: url(./images/background2) no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
 }
@@ -10,10 +10,6 @@ html {
 }
 
 #name {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align-last: center;
   margin-top: 25%;
   margin-left: 40%;
   position: absolute;
