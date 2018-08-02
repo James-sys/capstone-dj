@@ -19,7 +19,7 @@ html {
   -webkit-text-fill-color: transparent;
 }
 
-#menu-bar {
+/* #menu-bar {
   width: 95%;
   margin: 0px 0px 0px 0px;
   padding: 6px 6px 4px 5px;
@@ -186,7 +186,7 @@ html[xmlns] #menu-bar {
 }
 * html #menu-bar {
   height: 1%;
-}
+} */
 /* .nav-bar {
   display: flex;
   justify-content: center;
